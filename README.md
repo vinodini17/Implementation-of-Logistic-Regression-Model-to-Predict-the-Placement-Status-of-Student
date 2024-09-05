@@ -78,7 +78,7 @@ print("\nPredictions:\n",Y_pred[:5]) #print first 5 predictions
 ```
 
 ## Output:
-![the Logistic Regression ![image](https://github.com/user-attachments/assets/223b14fe-0f02-4b22-a016-f75e9fc5b665)
+![image](https://github.com/user-attachments/assets/223b14fe-0f02-4b22-a016-f75e9fc5b665)
 
 
 ## Result:
