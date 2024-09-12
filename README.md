@@ -98,9 +98,9 @@ print(y_pred)
 
 ## Output:
 ## Placement Data :
-![image](https://github.com/user-attachments/assets/f11b4bad-9971-4743-8a7d-805395fd1651)
-## Salary Data :
 ![image](https://github.com/user-attachments/assets/d7a9bca2-ba40-4fc2-9b15-52e88e7aa6b0)
+## Salary Data :
+![image](https://github.com/user-attachments/assets/f11b4bad-9971-4743-8a7d-805395fd1651)
 ## Checking the null() function :
 ![image](https://github.com/user-attachments/assets/83abc147-e2f1-4af2-8188-ad69f412fa54)
 ## Data Duplicate :
